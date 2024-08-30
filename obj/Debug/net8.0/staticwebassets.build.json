@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IK0UqBazfC10SSy2raoob7vwELZVf1iOf7/ansKKvYQ=",
+  "Source": "Version2SAMart",
+  "BasePath": "_content/Version2SAMart",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Version2SAMart\\wwwroot",
+      "Source": "Version2SAMart",
+      "ContentRoot": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart\\wwwroot\\",
+      "BasePath": "_content/Version2SAMart",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

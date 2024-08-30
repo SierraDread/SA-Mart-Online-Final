@@ -1,0 +1,6 @@
+@Version2SAMart_HostAddress = http://localhost:5289
+
+GET {{Version2SAMart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

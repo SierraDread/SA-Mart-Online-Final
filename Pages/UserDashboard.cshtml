@@ -1,0 +1,45 @@
+﻿@page
+@model Version2SAMart.Pages.UserDashboardModel
+@{
+    ViewData["Title"] = "User Dashboard";
+}
+
+<h2>User Dashboard</h2>
+
+<h3>Products</h3>
+<ul>
+    @foreach (var product in Model.Products)
+    {
+        <li>@product.Name - @product.Price</li>
+    }
+</ul>
+
+<h3>Orders</h3>
+<ul>
+    @foreach (var order in Model.Orders)
+    {
+        <li>Order ID: @order.Id - Date: @order.OrderDate - Total Amount: @order.TotalAmount</li>
+    }
+</ul>
+
+<h3>Order Items</h3>
+<ul>
+    @foreach (var orderItem in Model.OrderItems)
+    {
+        <li>Order Item ID: @orderItem.Id - Product ID: @orderItem.ProductId - Order ID: @orderItem.OrderId - Quantity: @orderItem.Quantity - Price: @orderItem.Price</li>
+    }
+</ul>
+
+<h3>Create Order</h3>
+<form method="post">
+    <label for="orderDate">Order Date:</label>
+    <input type="date" id="orderDate" name="NewOrder.OrderDate" required><br><br>
+
+    <label for="totalAmount">Total Amount:</label>
+    <input type="number" id="totalAmount" name="NewOrder.TotalAmount" step="0.01" required><br><br>
+
+    <!-- Additional fields for order items can be added here -->
+
+    <input type="submit" value="Create Order">
+</form>
+

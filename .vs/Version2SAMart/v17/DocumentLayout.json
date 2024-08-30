@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\pages\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:pages\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\pages\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:pages\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\pages\\userdashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:pages\\userdashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\pages\\admindashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:pages\\admindashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\models\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:models\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\data\\version2samartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:data\\version2samartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|c:\\users\\johan\\onedrive\\desktop\\c# projects\\version2samart - final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D8F14CF-0435-46CA-AE91-854D06F3694B}|Version2SAMart.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:19:03.948Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\AdminDashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AdminDashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\AdminDashboard.cshtml.cs",
+              "RelativeToolTip": "Pages\\AdminDashboard.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:07:25.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T19:24:26.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:25:43.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:58:38.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderItemController.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:33:50.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:44:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\AdminDashboard.cshtml",
+              "RelativeToolTip": "Pages\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T12:06:46.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\OrderDto.cs",
+              "RelativeToolTip": "Models\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:44:23.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\UserDashboard.cshtml",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\UserDashboard.cshtml",
+              "RelativeToolTip": "Pages\\UserDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T20:05:52.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\UserDashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\UserDashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Pages\\UserDashboard.cshtml.cs",
+              "RelativeToolTip": "Pages\\UserDashboard.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:12:33.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:51:58.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:28:29.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:19:25.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:19:43.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\OrderItemDto.cs",
+              "RelativeToolTip": "Models\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:08:33.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:18:43.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Version2SAMartContext.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Data\\Version2SAMartContext.cs",
+              "RelativeDocumentMoniker": "Data\\Version2SAMartContext.cs",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\Data\\Version2SAMartContext.cs",
+              "RelativeToolTip": "Data\\Version2SAMartContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:08:05.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Johan\\OneDrive\\Desktop\\C# Projects\\Version2SAMart - Final\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T11:47:23.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
